@@ -1,0 +1,11 @@
+*.sublime-project
+*.sublime-workspace
+.idea/
+target/
+Uclist.pm
+log.txt
+.bloop/
+out/
+.bsp/
+.metals/
+metals.sbt
